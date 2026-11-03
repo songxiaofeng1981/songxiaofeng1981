@@ -1,15 +1,15 @@
 <!-- RECENT:START -->
 <img src="cards/header.svg" width="100%" alt="Song 的项目工作台">
 
-<a href="https://github.com/songxiaofeng1981/html-manager"><img src="cards/project-1.svg" width="100%" alt="html-manager"></a>
+<a href="https://github.com/songxiaofeng1981/video-kit"><img src="cards/project-1.svg" width="100%" alt="video-kit"></a>
 
 <p>
-<a href="https://github.com/songxiaofeng1981/image-organizer"><img src="cards/project-2.svg" width="49%" alt="image-organizer"></a>
-<a href="https://github.com/songxiaofeng1981/iphone-photos-chrome"><img src="cards/project-3.svg" width="49%" alt="iphone-photos-chrome"></a>
+<a href="https://github.com/songxiaofeng1981/html-manager"><img src="cards/project-2.svg" width="49%" alt="html-manager"></a>
+<a href="https://github.com/songxiaofeng1981/image-organizer"><img src="cards/project-3.svg" width="49%" alt="image-organizer"></a>
 </p>
 <p>
-<a href="https://github.com/songxiaofeng1981/stock-blog"><img src="cards/project-4.svg" width="49%" alt="stock-blog"></a>
-<a href="https://github.com/songxiaofeng1981/my-blog"><img src="cards/project-5.svg" width="49%" alt="my-blog"></a>
+<a href="https://github.com/songxiaofeng1981/iphone-photos-chrome"><img src="cards/project-4.svg" width="49%" alt="iphone-photos-chrome"></a>
+<a href="https://github.com/songxiaofeng1981/stock-blog"><img src="cards/project-5.svg" width="49%" alt="stock-blog"></a>
 </p>
 
 <img src="cards/footer.svg" width="100%" alt="现在在做">
